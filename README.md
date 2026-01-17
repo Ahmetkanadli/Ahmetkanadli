@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Ahmet%20Kanadlı&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20|%20Mobile%20App%20Enthusiast&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Ahmet%20Kanadlı&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Mobile%20Developer%20|%20Mobile%20App%20Enthusiast&descAlignY=55&descSize=18"/>
 
 <!-- Animated Typing -->
 <a href="https://git.io/typing-svg">
@@ -24,7 +24,7 @@
 
 ```yaml
 name: Ahmet Kanadlı
-role: Flutter Mobile Developer
+role: Mobile Developer
 location: Turkey 🇹🇷
 
 what_i_do:
